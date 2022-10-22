@@ -132,7 +132,7 @@ export const parse = (tokens = []) => {
             const and = parse_and()
             data.push(and)
             const tk = tokens[i]
-            if (tk !== 'OR' || tk === ')') {
+            if (tk !== 'OR') {
                 break
             }
             i++

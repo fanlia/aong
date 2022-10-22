@@ -14,5 +14,5 @@ sources.forEach(source => {
     const tokens = tokenize(source)
     const rule = parse(tokens)
 
-    console.log({source, tokens, rule})
+    console.log(JSON.stringify({source, tokens, rule}, null, 2))
 })
