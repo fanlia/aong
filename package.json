@@ -1,0 +1,21 @@
+{
+  "name": "aong",
+  "version": "1.0.0",
+  "description": "and or not group test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanlia/aong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fanlia/aong/issues"
+  },
+  "homepage": "https://github.com/fanlia/aong#readme"
+}
