@@ -10,7 +10,7 @@ npm i aong
 ## Usage
 
 ```javascript
-import { aong, compile } from 'aong'
+import { aong, compile } from 'aong-js'
 
 const source = `k1 AND k2 AND (k3 OR k4) NOT (k5)`
 console.log({source})
