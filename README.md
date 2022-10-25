@@ -4,7 +4,7 @@ and or not group test
 ## Getting Started
 
 ```sh
-npm i aong
+npm i aong-js
 ```
 
 ## Usage
